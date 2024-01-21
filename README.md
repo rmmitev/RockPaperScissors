@@ -10,5 +10,5 @@ Rock-Paper-Scissors is a simple two-player game, where you and your opponent (th
 - Scissors beat paper (the paper gets cut by the scissors)
 - Paper beats rock (the paper covers the rock)
 
-The winner is the player whose choice beats the choice of his opponent. If both players choose the same option (e.g., "paper"), the game outcome is "draw".
+The winner is the player whose choice beats the choice of his opponent. If both players choose the same option (e.g., "paper"), the game outcome is "Tie".
 
